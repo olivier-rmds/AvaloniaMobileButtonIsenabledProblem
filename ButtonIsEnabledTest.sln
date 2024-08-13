@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonIsEnabledTest", "ButtonIsEnabledTest\ButtonIsEnabledTest.csproj", "{29CC8A10-1107-4403-AFF5-9D8C88DAF549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonIsEnabledTest.Android", "ButtonIsEnabledTest.Android\ButtonIsEnabledTest.Android.csproj", "{BB286F49-C5D8-41E9-9A41-0DA752732384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonIsEnabledTest.Desktop", "ButtonIsEnabledTest.Desktop\ButtonIsEnabledTest.Desktop.csproj", "{24FC07BB-492D-4BF6-8E8A-9CF979F07292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CC8A10-1107-4403-AFF5-9D8C88DAF549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CC8A10-1107-4403-AFF5-9D8C88DAF549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CC8A10-1107-4403-AFF5-9D8C88DAF549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CC8A10-1107-4403-AFF5-9D8C88DAF549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB286F49-C5D8-41E9-9A41-0DA752732384}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{24FC07BB-492D-4BF6-8E8A-9CF979F07292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC07BB-492D-4BF6-8E8A-9CF979F07292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC07BB-492D-4BF6-8E8A-9CF979F07292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC07BB-492D-4BF6-8E8A-9CF979F07292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B81F48BE-5110-46B0-8119-AEB5496FA015}
+	EndGlobalSection
+EndGlobal
